@@ -1,0 +1,27 @@
+{
+  "name": "summer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3jo/sunshine.git"
+  },
+  "author": "Joanne Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3jo/sunshine/issues"
+  },
+  "homepage": "https://github.com/k3jo/sunshine#readme"
+}
